@@ -14,3 +14,6 @@ In Scala 3.2.0, it works as expected.
 
 This issue has been discussed at TypeLevel's #cats-effect channel on Discord:
 https://discord.com/channels/632277896739946517/632278585700384799/1031322064583413760
+
+The discussion gets more interesting at this point:
+https://discord.com/channels/632277896739946517/632278585700384799/1031350257990250557
