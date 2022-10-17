@@ -3,6 +3,12 @@
 Reproduction of issue with initialization of objects and cats-effect's
 `unsafeRunSync()`.
 
+You can test it with
+
+```
+sbt run
+```
+
 In Scala 2.13.0, the code hangs on
 
 ```
